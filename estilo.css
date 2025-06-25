@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(230, 167, 201);
+}
+h1{
+    color: rgb(94, 7, 102);
+    text-align: center;
+}
+p{
+    font-size: 35px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+li{
+    margin-bottom: 10px;
+}  
+.Imagem1{
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+table{
+    color: rgb(94, 7, 102);
+}
+a hover{
+    color: red ;/*altera a cor do texto para vermelho quando o mouse passa por cima*/
+}
+    
+
+
+
+
+  
